@@ -1952,7 +1952,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1a8634;
+  background: #ffffa8;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3249,9 +3249,6 @@ pre .javascript .function {
   .pagination {
     margin: 8px 0 0;
   }
-}
-.post-body p {
-  text-indent: 2em;
 }
 code {
   color: #c7254e;
